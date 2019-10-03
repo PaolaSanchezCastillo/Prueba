@@ -1,0 +1,21 @@
+1- Creación del Sheader
+2- Nueva forma de hacer el sheader 
+3 - Valores globales del Shader como se vio en clase
+4- Se hace el include del Sheader y se instancia (Dos formas diferentes)
+5- Se añade la ruta del archivo de Sheader
+6- 6-Se agregan las tres matrices de proyeccion, modelo y vista
+7- Realizando las traslacion de la matriz de vista, ahora podemos ver la figura
+8- cubo con las dos caras del mismo color
+9-cubo con una cara roja y otra color verde 
+
+------ hacer las demaas caras
+10- Frustrum 
+11- :perspective
+12- ortho
+13-- zoom de las camaras m::perspective(glm::radians(60.0f), (float)screenWidth / (float)screenHeight, 0.02f, 100.0f);
+
+14 -- para cambia rla zona de dibujo 
+
+
+
+
